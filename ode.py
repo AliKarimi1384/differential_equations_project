@@ -1,3 +1,4 @@
+#Ali Karimi-ode-farabi
 import sympy as sp
 import matplotlib.pyplot as plt
 import numpy as np
